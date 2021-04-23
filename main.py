@@ -15,3 +15,5 @@ def only_odd(item):
 
 check_odd=[1,2,3,4,5,6,7,8]
 print(list(filter(only_odd,check_odd)))
+# Let's talk about zip() it works like a zipper 
+# We need two list to zip them togather
